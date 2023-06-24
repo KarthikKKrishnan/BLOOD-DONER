@@ -1,6 +1,5 @@
-**Log on to codeastro.com for more projects!**
 
-**Developed By Sumit Kumar**
+**Developed By Aparna,Ardra,Karthik,Malavika **
 
 **Instructions**
 - Install the Requirements: pip install -r requirements.txt
